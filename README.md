@@ -4,16 +4,15 @@
 # Screenshots
 
 ## Dashboard Overview
-![Dashboard](screenshots\dashboard-overview.png)
+![dashboard](screenshots/dashboard-overview.png)
 
 ## Live Agent Execution
-![Terminal](.screenshots\agent-terminal.png)
+![Terminal](./screenshots/agent-terminal.png)
 
 ## Generated Results
-![Results](./screenshots/results.png)
+![Results](./screenshots/generated-results.png)
 
-## Self-Healing Pipeline
-![Pipeline](./screenshots/pipeline.png)
+
 > Generate production-ready code in 5-8 seconds using three specialized AI agents
 
 ## 🎯 What This Does
